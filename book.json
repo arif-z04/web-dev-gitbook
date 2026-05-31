@@ -1,0 +1,29 @@
+
+{
+    "title": "Web Development Frontend Handbook",
+    "description": "A comprehensive guide to modern web development with HTML5, CSS3, and Responsive Web Design",
+    "author": "Web Development Team",
+    "language": "en",
+    "gitbook": "3.2.3",
+    
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    
+    "plugins": [
+        "theme-default",
+        "search",
+        "github"
+    ],
+    
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/arif-z04/web-dev-handbook"
+        }
+    },
+    
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
